@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\k.mohammadi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\kavehmhm\\TimeSheet\\TimeSheet\\TimeSheet.csproj",
+      "projectUniqueName": "C:\\Users\\k.mohammadi\\Source\\Repos\\kavehmhm\\TimeSheet\\TimeSheet\\TimeSheet.csproj",
       "projectName": "TimeSheet",
-      "projectPath": "C:\\Users\\Admin\\Source\\Repos\\kavehmhm\\TimeSheet\\TimeSheet\\TimeSheet.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Source\\Repos\\kavehmhm\\TimeSheet\\TimeSheet\\obj\\",
+      "projectPath": "C:\\Users\\k.mohammadi\\Source\\Repos\\kavehmhm\\TimeSheet\\TimeSheet\\TimeSheet.csproj",
+      "packagesPath": "C:\\Users\\k.mohammadi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\k.mohammadi\\Source\\Repos\\kavehmhm\\TimeSheet\\TimeSheet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\k.mohammadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
